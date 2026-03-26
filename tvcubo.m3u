@@ -1,0 +1,249 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="Aberto",Globo
+http://xxip25.top:8080/live/104446609/104446609/21020.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="Aberto",Globo Santos
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/44687
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="Aberto",Globo Londrina
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/902601
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="Aberto",Globo Fortaleza
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/38904
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="Aberto",Band
+https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="Aberto",Band Bahia
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/61733
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="Aberto",Band SP
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/913992
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="Aberto",Band RS
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/61271
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1280px-Logotipo_do_SBT.svg.png" group-title="Aberto",SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberto",Record
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="Aberto",Record
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" group-title="Aberto",Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1280px-TV_Gazeta.svg.png" group-title="Aberto",Gazeta
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2252
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Entretenimento",Multishow
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2168
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/3840px-Globoplay_Novelas.svg.png" group-title="Entretenimento",Globoplay Novelas
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2263
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Entretenimento",Lifetime
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2154
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Entretenimento",BIS
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2062
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_loading.png" group-title="Entretenimento",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logotipo_do_Modo_Viagem.svg" group-title="Entretenimento",Modo Viagem
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/928400
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Entretenimento",TLC
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2240
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Infantil",Discovery Kids
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2088
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" group-title="Infantil",Cartoon Network
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2072
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantil",Tooncast
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2245
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/1280px-Gloob_logo.svg.png" group-title="Infantil",Gloob
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2132
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1280px-Gloobinho_logo.svg.png" group-title="Infantil",Gloobinho
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2133
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esporte",Sportv
+https://02.arlivre.online/sportv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="Esporte",Sportv 2
+https://02.arlivre.online/sportv2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Esporte",Sportv 3
+https://02.arlivre.online/sportv3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/BandSports_logo.svg" group-title="Esporte",Band Sports
+https://02.arlivre.online/bandsport/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="Esporte",Combate
+https://02.arlivre.online/combate/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/BandNews_TV_logo_2010.svg" group-title="Noticias",band News
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2057
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png" group-title="Noticias",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="Noticias",Globo News
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2130
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" group-title="Noticias",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Times_Brasil_CNBC_logo.svg/3840px-Times_Brasil_CNBC_logo.svg.png" group-title="Noticias",CNBC Brasil
+https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="Noticias",SBT News
+https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="Noticias",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/CNNNBrasil_Money.svg/revision/latest?cb=20241105221257" group-title="Noticias",CNN Money
+https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnmoneyhevc-lgbr/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Filmes e Series",AMC
+http://xxip25.top:8080/live/104446609/104446609/164938.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Filmes e Series",AXN
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2054
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Filmes e Series",Cinemax
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2074
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Filmes e Series",HBO
+http://xxip25.top:8080/live/104446609/104446609/164950.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Filmes e Series",HBO Family
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2143
+
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="Filmes e Series",HBO POP
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2162
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyfzy_zryHCA8eh6XVhjEB3jjVQZ5W4qUmRA&s" group-title="Filmes e Series",HBO Xtreme
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2160
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="Filmes e Series",Megapix
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2163#EXTINF:-1 group-title=\"Brasil\",Universal TV HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png" group-title="Filmes e Series",Telecine Action
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2227
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png" group-title="Filmes e Series",Telecine Pipoca
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2232
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282021%29.png" group-title="Filmes e Series",Telecine Premium
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2235
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png" group-title="Filmes e Series",Telecine Touch
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2237
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png" group-title="Filmes e Series",Telecine Fun
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2231
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="Filmes e Series",Telecine Cult
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2229
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="Filmes e Series",TNT
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2242
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" group-title="Filmes e Series",TNT Series
+http://xxip25.top:8080/live/104446609/104446609/164958.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/960px-Logo_Studio_Universal.svg.png" group-title="Filmes e Series",Studio Universal
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2221
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Documentarios",History
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2149
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Discovery_H%26H_Logo_2022.webp" group-title="Documentarios",Discovery Home & health
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2086
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Documentarios",Discovery Turbo
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2093
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentarios",Discovery ID
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2151
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esporte",Sportv
+https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Outros",Futura
+http://d.plmv.site:8080/Lucindaandrade/Fogo2/2126
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe
+https://stream1.freetv.fun/98a8abf9cb40c9b4f7847b5aa0949ad7ebba1eaff6ac34eaf52e96dec242da8e.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Logotipo_de_Venevisi%C3%B3n_%28unoffical_blue_version%29.svg/250px-Logotipo_de_Venevisi%C3%B3n_%28unoffical_blue_version%29.svg.png" group-title="Venezuela",Venevision
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Colombia",Caracol
+http://xxip25.top:8080/live/104446609/104446609/78701.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Colombia",RCN
+http://xxip25.top:8080/live/104446609/104446609/78694.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Mexico",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Mexico",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title="Guatemala",Azteca Guate
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
+
