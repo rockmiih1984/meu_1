@@ -26,6 +26,9 @@ http://d.plmv.site:8080/Lucindaandrade/Fogo2/61271
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1280px-Logotipo_do_SBT.svg.png" group-title="Aberto",SBT
 http://xxip25.top:8080/live/104446609/104446609/20978.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1280px-Logotipo_do_SBT.svg.png" group-title="Aberto",SBT ALT
+https://aovivo.maissbt.com/channel_540.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberto",Record
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
@@ -35,6 +38,13 @@ http://d.plmv.site:8080/Lucindaandrade/Fogo2/45140
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" group-title="Aberto",Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" group-title="Aberto",Cultura PR
+http://200.189.113.201/hls/tve.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/05/Logotipo_da_RedeTV%21_%282015%E2%80%932019%29.png" group-title="Aberto",RedeTv
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1280px-TV_Gazeta.svg.png" group-title="Aberto",Gazeta
 http://d.plmv.site:8080/Lucindaandrade/Fogo2/2252
@@ -42,7 +52,7 @@ http://d.plmv.site:8080/Lucindaandrade/Fogo2/2252
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Entretenimento",Multishow
-http://d.plmv.site:8080/Lucindaandrade/Fogo2/2168
+https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/multishow.br.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/3840px-Globoplay_Novelas.svg.png" group-title="Entretenimento",Globoplay Novelas
 http://d.plmv.site:8080/Lucindaandrade/Fogo2/2263
@@ -61,6 +71,9 @@ http://d.plmv.site:8080/Lucindaandrade/Fogo2/928400
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Entretenimento",TLC
 http://d.plmv.site:8080/Lucindaandrade/Fogo2/2240
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png" group-title="Entretenimento",Play Tv
+https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 
 
 
@@ -86,7 +99,7 @@ http://d.plmv.site:8080/Lucindaandrade/Fogo2/2133
 https://02.arlivre.online/sportv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="Esporte",Sportv 2
-https://02.arlivre.online/sportv2/index.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Esporte",Sportv 3
 https://02.arlivre.online/sportv3/index.m3u8
@@ -105,6 +118,9 @@ https://02.arlivre.online/combate/index.m3u8
 http://d.plmv.site:8080/Lucindaandrade/Fogo2/2057
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png" group-title="Noticias",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png" group-title="Noticias",CNN Brasil Alt
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="Noticias",Globo News
@@ -112,6 +128,9 @@ http://d.plmv.site:8080/Lucindaandrade/Fogo2/2130
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" group-title="Noticias",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Times_Brasil_CNBC_logo.svg/3840px-Times_Brasil_CNBC_logo.svg.png" group-title="Noticias",CNBC Brasil
 https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/playlist.m3u8
@@ -198,14 +217,14 @@ http://d.plmv.site:8080/Lucindaandrade/Fogo2/2151
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esporte",Sportv
-https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
-
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Outros",Futura
 http://d.plmv.site:8080/Lucindaandrade/Fogo2/2126
+
+
+
 
 
 
@@ -240,10 +259,44 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Mexico",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png" group-title="Mexico",Azteca Uno
+https://tvnow.best/api/stream/keithrb@live.ca/334796/livetv.epg/azteca.uno.mx.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/797/402/png-clipart-multimedios-television-television-channel-monterrey-music-logo-television-logo.png" group-title="Mexico",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title="Guatemala",Azteca Guate
 https://ch1-tva.duin.dev/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="Mundo",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg" group-title="Mundo",Deutsche Welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Mundo",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1280px-Logo_TV5_Monde_-_2021.svg.png" group-title="Mundo",TV5 Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
