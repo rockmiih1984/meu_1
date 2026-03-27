@@ -255,6 +255,9 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/16600
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Colombia",Caracol
 http://xxip25.top:8080/live/104446609/104446609/78701.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Colombia",Caracol Site
+https://co-e1-p-e-mf2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/0dcbc643-4b2e-4995-9235-f90eb8a64c27:CBF2/variant/48215209b486b06c621f95db82dea5fe/bandwidth/1927200.m3u8?aid=574462d1cab0f4d50866f001&uid=iky5HIacxObrg7OgAu1DhUsLcddkwn4J&sid=vCtHdO9vr7kMzjJhOfCCdZS4xnhX2ddo&pid=8d0KuCAeGIATzu9llb6z8l2urBZYC1AB&pid_dvr=OsTWxs4nhP2QaZFHuilqc6Vc6coTeNHG&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=zK6Curhe7DzGFEItGn4yYpMqWqVV5PLfD28D7U4cDupV42PBNnjzaXeVVt9gYVm8E2hC6EgEl3J&CMCD=cid%3D%22574463697b9817cf0886fc17%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%228d0KuCAeGIATzu9llb6z8l2urBZYC1AB%22%2Csu&adInsertionGoogleStreamId=0dcbc643-4b2e-4995-9235-f90eb8a64c27%3ACBF2&es=co-e1-p-e-mf2.cdn.mdstrm.com&ote=1774729915449&ot=x4A0rKPuJOInm9zdBPol3w&proto=https&pz=us
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Colombia",RCN
 http://xxip25.top:8080/live/104446609/104446609/78694.ts
 
