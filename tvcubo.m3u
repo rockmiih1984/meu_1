@@ -52,7 +52,7 @@ http://d.plmv.site:8080/Lucindaandrade/Fogo2/2252
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Entretenimento",Multishow
-https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/multishow.br.m3u8
+http://mains.services/live/jeffreydlarkin%40yahoo.com/Landon302%21/2006cf3b-83f2-4604-996e-1a39cf650123.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/3840px-Globoplay_Novelas.svg.png" group-title="Entretenimento",Globoplay Novelas
 http://d.plmv.site:8080/Lucindaandrade/Fogo2/2263
@@ -143,6 +143,12 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/CNNNBrasil_Money.svg/revision/latest?cb=20241105221257" group-title="Noticias",CNN Money
 https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnmoneyhevc-lgbr/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODwbAVB-GnjDuiBJ63QSVVN03lB2d3uLVww&s" group-title="Musica",Kpop Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
 
 
@@ -259,8 +265,16 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Mexico",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png" group-title="Mexico",Azteca Uno
-https://tvnow.best/api/stream/keithrb@live.ca/334796/livetv.epg/azteca.uno.mx.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_de_Azteca_7_2024_%28cropped%29.png" group-title="Mexico",Azteca 7
+http://mains.services/live/jeffreydlarkin%40yahoo.com/Landon302%21/ac603c3e-2c08-4fd4-b4f0-de2ad069cfc1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Azteca_Uno_%282020%29.svg" group-title="Mexico",Azteca Uno
+http://mains.services/live/jeffreydlarkin%40yahoo.com/Landon302%21/030bf2fa-c7ce-4d0e-ae9e-b24c20ad4b3c.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="Mexico",Canal 11
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/797/402/png-clipart-multimedios-television-television-channel-monterrey-music-logo-television-logo.png" group-title="Mexico",Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
